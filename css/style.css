@@ -1,0 +1,18 @@
+html {
+  font-family: PT Sans, Trebuchet, sans-serif !important;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.main-container {
+  min-height: 512px;
+  line-height: 0;
+  height: auto;
+  color: rgba(27,27,27,.9);
+}
+
+.main-container .section {
+  width: 100%;
+}
